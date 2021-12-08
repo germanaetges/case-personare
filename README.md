@@ -20,5 +20,9 @@ Projeto desenvolvido com [Create React App]
 * styled-components
 * Material-UI
 
+## Para rodar o projeto:
+``` npm install ```
+``` npm start ```
+
 
 *Desenvolvido com muita dedicação por Germana Etges*
